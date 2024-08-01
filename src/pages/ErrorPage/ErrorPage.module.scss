@@ -1,0 +1,25 @@
+.container{
+    background-color: #051650;
+    padding: 150px 100px 304px 100px;
+    text-align: center;
+    
+
+    img{
+        width: 100%;
+    }
+
+    .button{
+        background-color: transparent;
+        color: #EDB71B;
+        border: 2px solid #EDB71B;
+        padding: 15px 67px;
+        border-radius: 30px;
+        transition: .3s;
+    }
+
+    .button:hover{
+        border: 2px solid #051650;
+        background-color: #EDB71B;
+        color: #051650;
+    }
+}
